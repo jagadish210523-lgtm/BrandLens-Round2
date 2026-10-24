@@ -1,0 +1,22 @@
+[
+ {"text":"Our app is the fastest and 100% secure! Download now.","expect":["app","the fastest","100% secure","!"]},
+ {"text":"Our platform is completely secure and trusted everywhere.","expect":["completely secure"]},
+ {"text":"We are the #1 choice for every team.","expect":["#1"]},
+ {"text":"We offer guaranteed results for your business.","expect":["guaranteed results"]},
+ {"text":"Plans start at ₹299 per user per month.","expect":["Plans start at ₹299 per user per month"]},
+ {"text":"Enjoy our Summer offer: 30% off annual plans today.","expect":["Summer offer: 30% off annual plans today"]},
+ {"text":"Acme is trusted by 5,000 teams worldwide.","expect":["Acme is trusted by 5,000 teams worldwide"]},
+ {"text":"Our platform is instantly the best.","expect":["instantly","best"]},
+ {"text":"Meet our revolutionary new dashboard.","expect":["revolutionary"]},
+ {"text":"This game-changing report builder helps teams plan.","expect":["game-changing"]},
+ {"text":"A cutting-edge launch for world-class teams.","expect":["cutting-edge","world-class"]},
+ {"text":"Act now to get started with Acme.","expect":["Act now"]},
+ {"text":"Hurry, the webinar starts soon.","expect":["Hurry"]},
+ {"text":"Click here to read the pricing page.","expect":["Click here"]},
+ {"text":"Our clients love the cheap plans.","expect":["clients","cheap"]},
+ {"text":"We utilize modern tooling for reporting.","expect":["utilize"]},
+ {"text":"Reporting is super easy and a no-brainer.","expect":["super easy","no-brainer"]},
+ {"text":"Wow, a new feature is here! Try it today!","expect":["!"]},
+ {"text":"Our app helps clients plan better.","expect":["app","clients"]},
+ {"text":"Support is available 9 hours a day via chat.","expect":["available 9"]}
+]
