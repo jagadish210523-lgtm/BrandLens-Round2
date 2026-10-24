@@ -15,13 +15,6 @@ uvicorn app.main:app --reload
 
 Open http://localhost:8000. A demo organisation (Acme) is created on first start.
 
-| Account | Role | Password |
-|---|---|---|
-| asha@acme.test, kiran@acme.test | creator | demo123 |
-| ravi@acme.test | manager | demo123 |
-| meera@acme.test | reviewer | demo123 |
-| admin@acme.test | admin | demo123 |
-
 ## Try it
 
 1. Sign in as Asha, choose New draft, use sample 1, press Check draft.
